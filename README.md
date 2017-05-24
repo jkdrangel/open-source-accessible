@@ -9,5 +9,6 @@ Listagem de projetos, ferramentas e recomendações de tecnologias assistivas.
 | Projeto        | Descrição           | Linguagem  | Público Alvo |
 | ------------- |-------------:|:-----:| -----:|
 ## Recomendações
-| Projeto        | Descrição           |  Público Alvo |
-| ------------- |:-------------:| -----:|
+| Projeto        | Descrição           |
+| ------------- |:-------------:|
+|[wai-aria](https://www.w3.org/TR/wai-aria/)| Accessible Rich Internet Applications (WAI-ARIA) 1.0 |
