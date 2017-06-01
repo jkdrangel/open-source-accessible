@@ -8,6 +8,7 @@ Listagem de projetos, ferramentas e recomendações de tecnologias assistivas.
 ## Ferramentas 
 | Projeto        | Descrição           | Linguagem  | Público Alvo |
 | ------------- |-------------:|:-----:| -----:|
+[HaTeMiLe](https://github.com/carlsonsantana/HaTeMiLe-for-JavaScript) | HaTeMiLe (HTML Accessible) is a library that can convert a HTML code in a HTML code more accessible. | Html | - |
 ## Recomendações
 | Projeto        | Descrição           |
 | ------------- |:-------------:|
