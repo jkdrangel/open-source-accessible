@@ -2,13 +2,13 @@
 Listagem de projetos, ferramentas e recomendações de tecnologias assistivas.
 
 ## Projetos
-| Projeto        | Descrição           | Linguagem  | Público Alvo |
-| ------------- |-------------:|:-------------:| -----:|
-|[Nvda](https://github.com/nvaccess/nvda) | NVDA, the free and open source Screen Reader for Microsoft Windows | Python |  Não videntes |
+| Projeto        | Descrição           | Linguagem  | 
+| ------------- |-------------:|:-------------:|
+|[Nvda](https://github.com/nvaccess/nvda) | NVDA, the free and open source Screen Reader for Microsoft Windows | Python | 
 ## Ferramentas 
-| Projeto        | Descrição           | Linguagem  | Público Alvo |
-| ------------- |-------------:|:-----:| -----:|
-[HaTeMiLe](https://github.com/carlsonsantana/HaTeMiLe-for-JavaScript) | HaTeMiLe (HTML Accessible) is a library that can convert a HTML code in a HTML code more accessible. | Html | - |
+| Projeto        | Descrição           | Linguagem  |
+| ------------- |-------------:|:-----:| 
+[HaTeMiLe](https://github.com/carlsonsantana/HaTeMiLe-for-JavaScript) | HaTeMiLe (HTML Accessible) is a library that can convert a HTML code in a HTML code more accessible. | Html |
 ## Recomendações
 | Projeto        | Descrição           |
 | ------------- |:-------------:|
