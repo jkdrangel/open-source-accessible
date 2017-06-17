@@ -5,6 +5,7 @@ Listagem de projetos, ferramentas e recomendações de tecnologias assistivas.
 | Projeto        | Descrição           | Linguagem  | 
 | :-------------: |:-------------|:-------------|
 |[Nvda](https://github.com/nvaccess/nvda) | NVDA, the free and open source Screen Reader for Microsoft Windows | Python | 
+|[AudioWeb](https://github.com/Alcance-UFLA/audioweb)| Sistema para audiodescrição de imagens, fórmulas e outros elementos web. | PHP
 ## Ferramentas 
 | Projeto        | Descrição           | Linguagem  |
 | :------------- |:-------------|:-----| 
